@@ -17,7 +17,7 @@
 
 ### Day 3: August 14, 2020
 
-**Today's Progress:** Started to implement some new bootstrap css components such as a form and footer. I have added some TypeScript Variables and used Interpolation to display them on the page. I have added a new Date().getFullYear() to always display the current year within the footer. I am not sure about the color scheme just yet and may change it in the future.
+**Today's Progress:** Started to implement some new bootstrap css components such as a form and footer. I have added some TypeScript Variables and used Interpolation to display them on the page. I have added a new Date().getFullYear() to always display the current year within the footer. I am not sure about the color scheme just yet and may change it in the future. I also added routing to navbar.
 I have continued JS Fundamentals Course refreshing on If Else statements.
 
 **Thoughts:** Loving the progress on the Portfolio Site even thou I have been up since 4am to go to work. Then coming home to relieve the babysitter and playing and watching the kids while sneeking in some work on the site. Lookingh forward to tomorrow where I will have more free time to study and to code the website.
