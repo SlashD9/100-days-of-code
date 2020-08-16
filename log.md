@@ -22,3 +22,15 @@ I have continued JS Fundamentals Course refreshing on If Else statements.
 
 **Thoughts:** Loving the progress on the Portfolio Site even thou I have been up since 4am to go to work. Then coming home to relieve the babysitter and playing and watching the kids while sneeking in some work on the site. Lookingh forward to tomorrow where I will have more free time to study and to code the website.
 
+### Day 4: August 15, 2020
+
+**Today's Progress:** Started to add Owner and portfolios models. Added the portfolios service to the app but have not yet implemented.
+
+**Thoughts:** Going back and forth with Angular Docs, Bootstrap Docs and Udemy, I have been able to add in the models and services and began to understand more about how they work.
+
+### Day 5: August 16, 2020
+
+**Today's Progress:** Continued adding the portfolio service to the app and have aslo created data and dispayed it using a ngFor loop on the portfolios page, each portfolio has been set to display correctly on the page. I have also added my profile pictures to the app and changed image depending on size of screen. 
+
+**Thoughts:** Continuing to understand more and more of how Angular works and really enjoying the process. I'm alot quicker coding than I first thought. I may continue adding more to techdaly app later today.
+
