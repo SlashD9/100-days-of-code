@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Colin Daly]
 
 The log of my #100DaysOfCode challenge. Started on [August 12, Wednesday, 2020].
 
@@ -16,5 +16,8 @@ Started to implement some new bootstrap css components such as a form and footer
 ### R1D4
 Started to add Owner and portfolios models. Added the portfolios service to the app but have not yet implemented.
 
-### R1D5
+### R1D5-6
 Continued adding the portfolio service to the app and have aslo created data and dispayed it using a ngFor loop on the portfolios page, each portfolio has been set to display correctly on the page. I have also added my profile pictures to the app and changed image depending on size of screen. 
+
+### R1D7
+Reverted back to better learn Obervables using the Angular Udemy Course, copying for now and will then implement in my own project. Learning about the window object in JS Fundamentals, its all really starting to click in my into place...

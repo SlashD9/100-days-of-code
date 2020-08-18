@@ -28,9 +28,15 @@ I have continued JS Fundamentals Course refreshing on If Else statements.
 
 **Thoughts:** Going back and forth with Angular Docs, Bootstrap Docs and Udemy, I have been able to add in the models and services and began to understand more about how they work.
 
-### Day 5: August 16, 2020
+### Day 5-6: August 16/17, 2020
 
 **Today's Progress:** Continued adding the portfolio service to the app and have aslo created data and dispayed it using a ngFor loop on the portfolios page, each portfolio has been set to display correctly on the page. I have also added my profile pictures to the app and changed image depending on size of screen. 
 
 **Thoughts:** Continuing to understand more and more of how Angular works and really enjoying the process. I'm alot quicker coding than I first thought. I may continue adding more to techdaly app later today.
+
+### Day 7: August 18, 2020
+
+**Today's Progress:** Reverted back to better learn Obervables using the Angular Udemy Course, copying for now and will then implement in my own project. Learning about the window object in JS Fundamentals, its all really starting to click in my into place...
+
+**Thoughts:** It was hard to get motivated to do anything today, tuesdays are generally a struggle for me espescially getting up for 5 for work. Making alot of progress and everything is really starting to click into place, I find myself doing the code before the instructor tells me what to do. I'm just glad I go soemthing done today.
 
