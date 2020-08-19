@@ -21,3 +21,7 @@ Continued adding the portfolio service to the app and have aslo created data and
 
 ### R1D7
 Reverted back to better learn Obervables using the Angular Udemy Course, copying for now and will then implement in my own project. Learning about the window object in JS Fundamentals, its all really starting to click in my into place...
+
+### R1D8
+Follwed Tutorial to add RXJS Observable to my angular project, and to subscribe to it from another component through a service.
+I'm Starting to think I may actually understand it somewhat. Good day overall and really happy I've taken on the challenege
