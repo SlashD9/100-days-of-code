@@ -25,3 +25,7 @@ Reverted back to better learn Obervables using the Angular Udemy Course, copying
 ### R1D8
 Follwed Tutorial to add RXJS Observable to my angular project, and to subscribe to it from another component through a service.
 I'm Starting to think I may actually understand it somewhat. Good day overall and really happy I've taken on the challenege
+
+### R1D9
+Completed my dev logger app, added the ability to add, update and delete data in local storage. Dev Logger app is complete and has been uploaded it to netlfiy.
+I will take on the challenge of Creating my own flavour of this app maybe as a Diary App. 
