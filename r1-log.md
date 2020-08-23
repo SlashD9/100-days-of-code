@@ -29,3 +29,12 @@ I'm Starting to think I may actually understand it somewhat. Good day overall an
 ### R1D9
 Completed my dev logger app, added the ability to add, update and delete data in local storage. Dev Logger app is complete and has been uploaded it to netlfiy.
 I will take on the challenge of Creating my own flavour of this app maybe as a Diary App. 
+
+### R1D10
+Only got time to watch few tutorilas and go over the dev logger app and figure out what rx BehaviourSource is. Starting to understand.
+
+### R1D11
+Another day of going over some JS and the DevLogger app to understand the logic of the app.
+
+### R1D12
+Catching up on a little bit of studying JavaScript tonight after doing loads of diy projects in the house.

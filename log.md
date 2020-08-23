@@ -49,8 +49,26 @@ I'm Starting to think I may actually understand it somewhat.
 
 **Thoughts:** Progress is happening, the encouragment based around coding on twitter is definitely helping keep me motivated. The 100daysofcode challenge is keeping me motivated. I struggle during the day trying to acheive any progress or sometimes just to get started but it is def worth it. I'm also listening to a book called the "The speed of trust" by Stephen Covey Jr, its encouraging and eye opening to the damages that lack of trust can have in your life. Its bringing up stuff from past employments, making me realise that it was a broken trust relationship that eventually ended the work relationship. Makes me strive even more to build trust with everyone in work and at home.
 
-### Day 8: August 19, 2020
+### Day 9: August 20, 2020
 
 **Today's Progress:** Completed my dev logger app, added the ability to add, update and delete data in local storage. Dev Logger app is complete and has been uploaded it to netlfiy.I will take on the challenge of Creating my own flavour of this app maybe as a Diary App. 
 
 **Thoughts:** Honestly I understood most of it, but when he added another BehaviourSubject as a boolean, Im a bit lost I may have to look over that video again several times. Still Feeling good and Motivated. I will build my own flavour of this app (Diary App). 
+
+### Day 10: August 21, 2020
+
+**Today's Progress:** Only got time to watch few tutorilas and go over the dev logger app and figure out what rx BehaviourSource is. Starting to understand.
+
+**Thoughts:** On one hand I'm a bit disheartened not getting much coding in but happy i got some tuts in at least.
+
+### Day 11: August 22, 2020
+
+**Today's Progress:** Another day of going over some JS and the DevLogger app to understand the logic of the app.
+
+**Thoughts:** Starting to understand rxjs somewhat, but main thing is im still enjoying coding.
+
+### Day 12: August 23, 2020
+
+**Today's Progress:** Catching up on a little bit of studying JavaScript tonight after doing loads of diy projects in the house.
+
+**Thoughts:** JavaScript is going in I'm really begining to get to grips with it all. 
