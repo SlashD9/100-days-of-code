@@ -72,3 +72,9 @@ I'm Starting to think I may actually understand it somewhat.
 **Today's Progress:** Catching up on a little bit of studying JavaScript tonight after doing loads of diy projects in the house.
 
 **Thoughts:** JavaScript is going in I'm really begining to get to grips with it all. 
+
+### Day 13: August 24, 2020
+
+**Today's Progress** Learning about dom traversing using JavaScript. How to get getElementsById getElementsByClassName, querySelector(), querySelectorAll() etc..  and setting different properties on the elements. 
+
+**Thoughts:** There are a ton of selectors for the child and the parent as is the case for css. Looking forward to using all these in my projects.

@@ -38,3 +38,6 @@ Another day of going over some JS and the DevLogger app to understand the logic 
 
 ### R1D12
 Catching up on a little bit of studying JavaScript tonight after doing loads of diy projects in the house.
+
+### R1D13
+Learning about dom traversing using JavaScript. How to get getElementsById getElementsByClassName, querySelector(), querySelectorAll() etc..  and setting different properties on the elements. 
