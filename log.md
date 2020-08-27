@@ -67,13 +67,13 @@ I'm Starting to think I may actually understand it somewhat.
 
 **Thoughts:** Starting to understand rxjs somewhat, but main thing is im still enjoying coding.
 
-### Day 12: August 23-24, 2020
+### Day 12 - 13: August 23-24, 2020
 
 **Today's Progress:** Catching up on a little bit of studying JavaScript tonight after doing loads of diy projects in the house.
 
 **Thoughts:** JavaScript is going in I'm really begining to get to grips with it all. 
 
-### Day 13: August 25, 2020
+### Day 14: August 25, 2020
 
 **Today's Progress** Learning about dom traversing using JavaScript. How to get getElementsById getElementsByClassName, querySelector(), querySelectorAll() etc..  and setting different properties on the elements. 
 
@@ -87,7 +87,7 @@ More on traversing the DOM today also learning and trying out some event listene
 **Thoughts:**
 Taken it slow and steady today, brain is not at full capacity, probably not even at half capacity. Early mornings take there toll sometimes
 
-### Day 15: August 27, 2020
+### Day 16: August 27, 2020
 
 **Today's Progress:** Learning about local storage and session storage and using JSON.stringify and JSON.parse when working with arrays. 
 
@@ -96,7 +96,7 @@ Looking forward till the weekend to start using it in a project. I'm going to ta
 
 Side Note Mixing my days up on twitter...
 
-### Day 16, August 28, 2020
+### Day 17, August 28, 2020
 
 **Today's Progress:**
 

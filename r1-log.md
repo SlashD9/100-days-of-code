@@ -37,14 +37,20 @@ Only got time to watch few tutorilas and go over the dev logger app and figure o
 Another day of going over some JS and the DevLogger app to understand the logic of the app.
 
 ### R1D12
-Catching up on a little bit of studying JavaScript tonight after doing loads of diy projects in the house.
+Catching up on a little bit of studying JavaScript after doing loads of diy projects in the house.
 
 ### R1D13
-Learning about dom traversing using JavaScript. How to get getElementsById getElementsByClassName, querySelector(), querySelectorAll() etc..  and setting different properties on the elements. 
+Catching up on a little bit of studying JavaScript after doing loads of diy projects in the house.
 
 ### R1D14
+Learning about dom traversing using JavaScript. How to get getElementsById getElementsByClassName, querySelector(), querySelectorAll() etc..  and setting different properties on the elements. 
+
+### R1D15
+More on traversing the DOM today also learning and trying out some event listeners in JS
+
+### R1D16
 Done a Quick refresher on HTML5 and its elements. Always trying to improve. Also continued with JS event listners, mouse events and keyboard events.
 This is not what I wanted to add to #100daysofcode but its progress and I'm very happy. 
 
-### R1D15
+### R1D17
 Learning about local storage and session storage and using JSON.stringify and JSON.parse when working with arrays. Looking forward till the weekend to start using it in a project.
