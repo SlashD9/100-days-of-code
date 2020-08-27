@@ -41,3 +41,10 @@ Catching up on a little bit of studying JavaScript tonight after doing loads of 
 
 ### R1D13
 Learning about dom traversing using JavaScript. How to get getElementsById getElementsByClassName, querySelector(), querySelectorAll() etc..  and setting different properties on the elements. 
+
+### R1D14
+Done a Quick refresher on HTML5 and its elements. Always trying to improve. Also continued with JS event listners, mouse events and keyboard events.
+This is not what I wanted to add to #100daysofcode but its progress and I'm very happy. 
+
+### R1D15
+Learning about local storage and session storage and using JSON.stringify and JSON.parse when working with arrays. Looking forward till the weekend to start using it in a project.
